@@ -1,1 +1,1 @@
-# AirBnB_clone_v2, tHIS IS ABOUT WEBDEVELOPMENT
+AirbNB clone project
